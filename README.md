@@ -46,4 +46,4 @@
  </div>
  
  ##
- ![Snake animation](https://github.com/flameuss/flameuss/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Flameuss/Flameuss/blob/output/github-contribution-grid-snake.svg)
