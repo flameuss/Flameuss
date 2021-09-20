@@ -1,4 +1,4 @@
-# :man_technologist: Opa! tubo bom pessoal ?  :vulcan_salute:
+# :man_technologist: Opa! tudo bom com vocês pessoal ?  :vulcan_salute:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-hscampos/)
@@ -35,7 +35,12 @@
   
 </div>
   <div style="display: inline_block"><br>
+   
  
- ###
-   ![Snake animation](https://github.com/Flameuss/Flameuss/blob/output/github-contribution-grid-snake.svg)
+## :sparkles: Systems
+   
+   
+ <img align="center" alt="Flameuss-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+   <img align="center" alt="Flameuss-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 
+ </div>
