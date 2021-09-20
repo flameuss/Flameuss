@@ -35,7 +35,12 @@
   
 </div>
   <div style="display: inline_block"><br>
+   
  
- ###
- 
+## :sparkles: Systems
+   
+   
+ <img align="center" alt="Flameuss-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+   <img align="center" alt="Flameuss-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 
+ </div>
